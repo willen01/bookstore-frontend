@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    baseUrl:'http://localhost:8080'
+    baseUrl:'https://book-store-backend-production-8e6a.up.railway.app'
 };
